@@ -32,4 +32,4 @@ Welcome to the JavaScript Polyfill Methods repository! This repo contains a coll
 
 ## Introduction
 
-This repository aims to provide a comprehensive list of JavaScript polyfills that enable developers to use modern JavaScript features in older browsers. Each polyfill is explained with a brief description and a code example to help you understand how to use it effectively
+This repository aims to provide a comprehensive list of JavaScript polyfills that enable developers to use modern JavaScript features in older browsers. Each polyfill is explained with a brief description and a code example to help you understand how to use it effectively.
